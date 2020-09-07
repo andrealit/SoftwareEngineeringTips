@@ -31,7 +31,7 @@ Trust me, the next time you have a technical question, ask around and watch how 
 
 Which leads us to...
 
-###Tip n°4: Learn how to synthesize your thoughts
+### Tip n°4: Learn how to synthesize your thoughts
 
 Being able to synthesize your thoughts means getting straight to the points by giving only the essential amount of information. This will help you out in your everyday life, where, as you probably have understood so far in the article, communicating with others will be essential.
 
