@@ -1,7 +1,8 @@
 # SoftwareEngineeringTips
-##Tips I wish I knew when starting studying Software Engineering
 
-###Tip n°1: You can always improve your craft
+## Tips I wish I knew when starting studying Software Engineering
+
+### Tip n°1: You can always improve your craft
 
 Constant improvement is part of what we do and being out of the loop can sneak up on us rather quickly. Especially in fields such as web development where new frameworks and libraries emerge every week.
 
@@ -10,7 +11,7 @@ One way to improve on what you already know is to learn from more experienced de
 But nothing beats working on a concrete project with actual end goals.
 Always strive to improve your code, design patterns and choices every step of the way. In case of doubt, always feel free to ask questions on platforms such as StackExchange.
 
-###Tip n°2: Stay open to (constructive) criticism
+### Tip n°2: Stay open to (constructive) criticism
 
 I always am bummed out when I meet developers who categorically refuse constructive criticism (no matter how it is presented). Their mindset won't allow them to improve or discover new ways of solving problems and they tend to be a pain to work with.
 
@@ -20,7 +21,7 @@ As an anecdote, I used to work on a big end-of-the-year project with another dev
 
 Keep in mind that not everyone knows how to be constructive in their criticism, you'll encounter people who say things harshly and feel the need to boast in their experience and talent by questioning every choices you've made. You'll inevitably end up meeting people like that and you just have to learn to deal with it. Thankfully, in my experience, most developers mean well.
 
-###Tip n°3: Don't be afraid to ask questions
+### Tip n°3: Don't be afraid to ask questions
 
 On a similar note, you should never be afraid to ask questions. They may sound vague at first, but as your knowledge will grow so will the quality of your questions.
 
@@ -38,7 +39,7 @@ But of course synthesizing is hard, really. Especially when trying to do it to c
 
 A great way to improve on your synthesizing skills is to watch how others do it and take note. Another way is to explain technical concepts to someone who does not work in software engineering, this will force you to find relatable examples for them to comprehend.
 
-###Tip n°5: Start contributing to the open-source
+### Tip n°5: Start contributing to the open-source
 
 I wrote a short article on how to start contributing to the open-source that could set you off on the right path, but here's why contributing can be beneficial for a student, you'll be able to:
 
@@ -48,7 +49,7 @@ Find mentors
 Work on your soft skills
 As a plus, contributing to this ecosystem is really rewarding and is well perceived by recruiters and tech firms.
 
-###Tip n°6: Stay curious
+### Tip n°6: Stay curious
 
 What I mean by that is, always explore new technologies.
 
@@ -60,7 +61,7 @@ A great place to get inspired is Github's Explore page.
 
 Last, but not least...
 
-###Tip n°7: Find personal projects to work on
+### Tip n°7: Find personal projects to work on
 
 I can already hear you saying "but Chris, I'm a student, I don't have enough time to work on side projects", and I hear you, really. But trust me on this one: make time for them.
 
